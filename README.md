@@ -1,16 +1,17 @@
-## Hi there 👋
+<a href="https://git.io/typing-svg" align="center">
+<img align="center"
+  src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=1000&color=884370&center=true&vCenter=true&width=600&height=70&lines=.+.+.;'I+will+do+anything+.+.+.;.+.+.+to+be+free.';"
+  alt="Typing SVG" />
+</a>
 
-<!--
-**f1pilled/f1pilled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://git.io/typing-svg" align="center">
+<img align="center"
+  src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=1000&color=302f42&center=true&vCenter=true&width=600&height=70&lines=.+.+.;.+.+.;.+.+.;Even+escape?;" 
+  alt="Typing SVG" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://git.io/typing-svg" align="center">
+<img align="center"
+src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=1000&color=5c314d&center=true&vCenter=true&width=600&height=70&lines=.+.+.;.+.+.+;.+.+.;I...;...I+dont+know.;Can+i+do+that?" alt="Typing SVG" />
+  alt="Typing SVG" />
+</a>
