@@ -1,5 +1,6 @@
-<img width="500" height="500" alt="imageedit_1_8380851036" src="https://github.com/gothamssexiest/gothamssexiest/blob/main/imageedit_1_8380851036.png" />
-<a href="https://git.io/typing-svg" align="center">
+<img width="500" height="500" alt="imageedit_1_8380851036" align="center"
+  src="https://github.com/gothamssexiest/gothamssexiest/blob/main/imageedit_1_8380851036.png" />
+<a href="https://git.io/typing-svg">
 
 <img align="center"
   src="https://readme-typing-svg.demolab.com?font=Jim+Nightshade&size=40&pause=1000&color=23446a&center=true&vCenter=true&width=600&height=70&lines=.+.+.;'I+will+do+anything+.+.+.;.+.+.+to+be+free.'.+.+.;"
